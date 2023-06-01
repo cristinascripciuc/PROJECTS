@@ -1,0 +1,11 @@
+<h2>Panini</h2>
+<div class="card-container">
+  <div class="card" *ngFor="let panino of panini">
+    <img class="card-image" [src]="panino.immagine" alt="Immagine panino" />
+    <div class="card-content">
+      <div class="card-title">{{ panino.nome }}</div>
+      <div class="card-description">{{ panino.descrizione }}</div>
+      <div class="card-price">{{ panino.prezzo }}</div>
+    </div>
+  </div>
+</div>

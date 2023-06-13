@@ -25,6 +25,7 @@ Per eseguire PizzeriaApp, seguire questi passaggi:
 
 1. Assicurarsi di avere Angular CLI installato.
 2. Clonare il repository del progetto.
+git clone https://github.com/cristinascripciuc/projects.git
 3. Navigare nella directory del progetto.
 4. Aprire il terminale e eseguire il seguente comando per installare le dipendenze:
 

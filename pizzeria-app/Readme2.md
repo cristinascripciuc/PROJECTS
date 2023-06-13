@@ -5,6 +5,11 @@ Questo è un file README per il progetto PizzeriaApp.
 ## Descrizione
 
 PizzeriaApp è un'applicazione web per una pizzeria. Consente agli utenti di visualizzare e ordinare diverse pizze dal menu.
+## Screenshot
+
+![Screenshot](pizza.png)
+
+Uno screenshot dell'applicazione in esecuzione.
 
 ## Tecnologie utilizzate
 
@@ -13,19 +18,6 @@ Il progetto PizzeriaApp è realizzato utilizzando le seguenti tecnologie:
 - HTML
 - CSS
 - Angular
-
-## Struttura dei file
-
-La struttura dei file del progetto è la seguente:
-
-PizzeriaApp
-├── index.html
-├── favicon.ico
-├── app
-│ ├── app.module.ts
-│ └── ...
-└── styles.css
-
 
 ## Come eseguire l'applicazione
 
